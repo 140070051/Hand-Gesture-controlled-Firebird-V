@@ -13,6 +13,7 @@
 
 
 #include <math.h>
+#include "lcd.h"
 
 unsigned char data; //to store received data from UDR1
 
